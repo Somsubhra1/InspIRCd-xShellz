@@ -1,0 +1,94 @@
+[
+ {
+ "placeholder":"Enter IRC Server Link (Example irc.server.name)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "servername"
+ },
+ {
+ "placeholder":"Enter IRC Server Description",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "desc"
+ },
+ {
+ "placeholder":"Enter IRC Network name (Example: xShellz IRC)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "servername"
+ },
+ {
+ "placeholder":"Enter IRC Server Admin Name",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "adminname"
+ },
+ {
+ "placeholder":"Enter Admin Nick",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "nick"
+ },
+ {
+ "placeholder":"Enter Admin Email",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "adminemail"
+ },
+ {
+ "placeholder":"Enter IRC Server port (Example: 6667)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "port"
+ },
+ {
+ "placeholder":"Enter IRC Server password",
+ "format":"string",
+ "type": "password",
+ "isMandatory": "true",
+ "name": "password"
+ },
+ {
+ "placeholder":"Enter IRC Operator name",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "opername"
+ },
+ {
+ "placeholder":"Enter IRC Operator password",
+ "format":"string",
+ "type": "password",
+ "isMandatory": "true",
+ "name": "operpass"
+ },
+ {
+ "placeholder":"Enter IRC Services IP",
+ "format":"string",
+ "type": "text",
+ "isMandatory": "true",
+ "name": "servicesip"
+ },
+ {
+ "placeholder":"Enter IRC Services link password",
+ "format":"string",
+ "type": "password",
+ "isMandatory": "true",
+ "name": "linkpass"
+ },
+ {
+ "placeholder":"Install InspIRCd",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install InspIRCd"
+ }
+]
