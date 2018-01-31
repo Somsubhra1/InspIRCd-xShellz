@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # InspIRCd provision script, written by Som
 set -e
